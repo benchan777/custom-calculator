@@ -29,7 +29,7 @@ if item_type == "siglo":
     number_of_talents = (siglo_craft_count * 5)
     total_cost = (number_of_talents * base_item_price + number_of_kits)
     print(f"You will need {round(number_of_talents)} talents and {number_of_kits} kits. It will cost you {round(total_cost)} gold.")
-elif item_type == "plate":
+else:
     siglo_craft_count_1 = (siglo_craft_count * 5)
     siglo_craft_count_2 = (siglo_craft_count_1 / 3)
     number_of_talents = (siglo_craft_count_2 * 5)
@@ -38,5 +38,3 @@ elif item_type == "plate":
     kit_cost = (number_of_plate_kits + number_of_kits)
     total_cost = (talent_cost + kit_cost)
     print(f"You will need {round(number_of_talents)} talents and {number_of_plate_kits + number_of_kits} kits. It will cost you {round(total_cost)} gold.")
-else:
-    print("what")
