@@ -17,3 +17,6 @@ The calculator is not limited to only calculating the number of silver talents a
 * Input the price of each silver talent
 
 The calculator will then provide you with the number of talents needed (rounded down), the number of refining kits needed, and the total cost of all materials needed.
+
+## Credits
+- [Tera](https://tera.enmasse.com/)
