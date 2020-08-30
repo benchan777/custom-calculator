@@ -1,9 +1,9 @@
 # Tera plate crafting calculator
 A simple calculator written in python to calculate the number of talents and kits needed to craft siglos or plates in the MMORPG Tera. Also calculates the total price of all materials needed.
 
--[Tera plate crafting calculator](#tera-plate-crafting-calculator)
-    -[Explanation](#explanation)
-    -[Usage](#usage)
+- [Tera plate crafting calculator](#tera-plate-crafting-calculator)
+    - [Explanation](#explanation)
+    - [Usage](#usage)
 
 ## Explanation
 In the mmo, Tera, silver plates are materials needed to upgrade and/or craft many different items and gear. In order to craft silver plates, the player needs an item called a silver siglo which also needs to be crafted. In order to craft silver siglos, the player needs a base item called a silver talent. 5 silver talents along with 60 refining kits are needed to craft 3 silver siglos, and 5 silver siglos along with 240 refining kits are needed to craft 3 silver plates.
